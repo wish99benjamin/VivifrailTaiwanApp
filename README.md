@@ -49,4 +49,5 @@ This program is based on the principle that the health of older adults should be
 ![](https://i.imgur.com/6yAxsQE.jpg)
 - Record user's daily exercise progress. Medical professionals can click on a date to view detailed information and add notes.
 ### Database
+- Utilizing SQLite plugin for Flutter to implement data storage. 
 - Allowing healthcare professionals to remotely monitor the daily exercise status of the elderly.
