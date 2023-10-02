@@ -24,6 +24,7 @@ This program is based on the principle that the health of older adults should be
 ## Features
 ### Home Page
 ![](https://i.imgur.com/3gg8ekP.jpg)
+The three buttons, in order, are exercise page, record page, and personal information.
 ### Exercise Page
 ![](https://i.imgur.com/XaLH8Ym.jpg)
 - When a workout is completed, clicking on the card will turn it green and allow user to jump to the next exercise screen.
@@ -33,3 +34,5 @@ This program is based on the principle that the health of older adults should be
 ### Record page
 ![](https://i.imgur.com/6yAxsQE.jpg)
 - Record user's daily exercise progress. Medical professionals can click on a date to view detailed information and add notes.
+### Database
+- Allowing healthcare professionals to remotely monitor the daily exercise status of the elderly.
