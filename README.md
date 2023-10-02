@@ -14,18 +14,18 @@ This program is based on the principle that the health of older adults should be
 1. Language Barrier: The original Vivifrail app is primarily in Spanish, which may not be convenient for elderly users in Taiwan who predominantly use Chinese or Taiwanese.
 
 
-  ➡️ Using Chinese as our app's primary language.
+    ➡️ Using Chinese as our app's primary language.
 
 
 2. Non-User-Friendly Interface:The original Vivifrail app's fonts and buttons are too small for the elderly to read and touch. It's also difficult for them to intuitively understand how to do next, and it lacks clear instructions to clarify the procedures.
 
-  ➡️ Using larger fonts and icons, imporoving user interface, providing user tutorial.
+    ➡️ Using larger fonts and icons, imporoving user interface, providing user tutorial.
 
 
 3. Lack of Audio Assistance Feature: Some elderly individuals may have difficulty obtaining information solely through visual means and may require additional support such as audio assistance.
 
 
-  ➡️ Integrate a Chinese(text) to Taiwanese(voice) assistant for audio assistance.
+    ➡️ Integrate a Chinese(text) to Taiwanese(voice) assistant for audio assistance.
 
 ## Flow Chart
 ![](https://i.imgur.com/ccBGMFn.jpg)
