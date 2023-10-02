@@ -5,6 +5,11 @@
 - An app designed to track the physical activities of the elderly.
 - Primary framework and concept adapted from [Vivifrail](https://play.google.com/store/apps/details?id=com.mikelizquierdo.vivifrail&hl=zh_HK&gl=US).
 
+## Tools
+- Framework: Flutter
+- Programming Language: Dart
+- Database: SQFLite(sqlite in flutter)
+
 ## Introduction of Vivifrail
 "Vivifrail" is an international initiative aimed at promoting daily exercising. Its purpose is to provide a reference for interventions in preventing frailty and falls among elderly individuals in both community and hospital settings.
 
